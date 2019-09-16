@@ -1,5 +1,15 @@
 # Changelog
 
+## 🎂 1.4.0
+
+- ### Features
+
+- ### Fixes
+
+- ### Maintenance
+
+- ### Documentation
+
 ## 🎁 1.3.0
 
 - ### Features
